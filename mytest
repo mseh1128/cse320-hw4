@@ -1,0 +1,3 @@
+spool 'echo start;'
+help
+cancel 0

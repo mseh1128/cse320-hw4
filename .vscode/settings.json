@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "jobber.h": "c",
+        "stdlib.h": "c",
+        "errno.h": "c",
+        "types.h": "c",
+        "wait.h": "c",
+        "main_helper.h": "c",
+        "jobs_helper.h": "c",
+        "task.h": "c",
+        "sf_readline.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c"
+    }
+}
